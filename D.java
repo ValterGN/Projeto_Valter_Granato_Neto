@@ -8,4 +8,7 @@ public class D {
     public void MD2(){
 
     }
+    public void MD4(){
+        System.out.print("MD4");
+    }
 }
